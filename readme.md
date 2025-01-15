@@ -10,5 +10,6 @@ In een teamomgeving beschermt branch-beveiliging de stabiliteit van de code, voo
 
 **Wie werkt hier aan?:**
 - Tycho
+- Joshua
 
 
